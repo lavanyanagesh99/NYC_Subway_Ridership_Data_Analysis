@@ -1,0 +1,17 @@
+# NYC Subway Ridership Data Analysis
+
+## Overview
+This project explores trends in NYC subway ridership from 2020 to 2024, focusing on the impacts of the COVID-19 pandemic and recovery patterns. By integrating various datasets, it provides insights into borough-level recovery, subway line popularity, and shifting commuter preferences, with an eye toward predicting future trends.
+
+## Objectives
+- Analyze subway ridership trends pre- and post-COVID.
+- Understand borough-wise and line-specific recovery patterns.
+- Explore alternative transit modes (like CitiBike and Uber).
+- Predict future ridership trends using data-driven models.
+
+## Repository Structure
+
+## Tools and Technologies
+- **Python**: Data cleaning, analysis, and visualization.
+- **Tableau**: Interactive dashboards for storytelling.
+- **Pandas, Matplotlib, Plotly**: For deep dives into the data.
